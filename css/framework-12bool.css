@@ -15,10 +15,6 @@
 [class^="col-"] {
   float: left;
   padding: 16px;
-  /* DEBUG:  */
-  background: #00FFFF;
-  border: 1px solid #000;
-  text-align: center;
 }
 
 [class^="col-"].p-0 {

@@ -8,8 +8,39 @@ body {
   font-family: sans-serif;
 }
 
-h2 {
-  font-weight: 800;
+h1{
   text-align: center;
-  margin: 30px;
+  padding: 50px;
+  font-size: 50px;
+}
+
+.green{
+  height: 500px;
+  background-color: green;
+}
+.white{
+  height: 500px;
+  background-color: white;
+}
+.red_it{
+  height: 500px;
+  background-color: red;
+}
+
+.blue{
+  height: 250px;
+  background-color: blue;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.col-12{
+  height: 200px;
+}
+
+.red_swis{
+  height: 150px;
+  background-color: red;
 }
